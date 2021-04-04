@@ -21,7 +21,7 @@ class Main {
     //more swiping
     s1.swipe(123657);
     s1.swipe(527023);
-    ////Swipe doesn't do anything if an ID is not in the class list
+    //Swipe doesn't do anything if an ID is not in the class list
     s1.swipe(999999);
 
     //Check attendance at the end of the day
